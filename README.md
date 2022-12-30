@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @BogdanSerban1234
+- For this you need matplotlib and numpy!
